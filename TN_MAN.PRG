@@ -1,3 +1,4 @@
+// Project started Otto
 // C:\DOCTIME\TN_MAN.PRG - 25/03/2022 - Joao
 // Programm zum erzeugen der Tagesordner C:\FWH\samples\mappe.prg
 
